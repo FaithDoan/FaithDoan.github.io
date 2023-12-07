@@ -8,21 +8,21 @@ My GitHub page is http://github.com/FaithDoan.
 
 ### CPSC 120
 
-* Lab 9
+* [Lab 9](https://github.com/cpsc-fall-2023/cpsc-120-lab-09-beth-faith.git)
 
     Lab 9, part 1 was one of my favorites because it introduced me to the world
     of judging the Olympics and its mechanics. Although I struggled with the 
     code, I was pleased when I was able to calculate the average score of any 
     given performance the same way a judge would.
 
-* Lab 10
+* [Lab 10](https://github.com/cpsc-fall-2023/cpsc-120-lab-10-faith-and-beth.git)
 
     Lab 10, part 2 was one of my favorites because I’ve always been fascinated 
     with the concept of vectors, and this lab gave me the perfect opportunity 
     to play around with them. Using vectors, I was able to organize and pull 
     information from a list of countries and their populations.
 
-* Lab 12
+* [Lab 12](https://github.com/cpsc-fall-2023/cpsc-120-lab-12-james-beth.git)
 
     Lab 12, part 1 was one of my favorites because I love art and animation. 
     So, learning how create my own colored moving images using code excited me! 
